@@ -1,7 +1,7 @@
-## Name
+## Nombre
 Curso de Python: PIP y Entornos Virtuales
 
-## Description
+## Descripción
 Aprendiendo a configurar Python en el sistema operativo, instalar dependencias con PIP y aíslar los proyectos en entornos virtuales para evitar conflictos entre módulos y sus versiones. Encapsular las aplicaciones en contenedores de Docker y descubrir cómo trabajar en equipo profesionalmente junto al profesor Nicolas Molina.
 
 ## Conocimientos previos
