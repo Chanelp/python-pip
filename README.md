@@ -13,3 +13,11 @@ Aprendiendo a configurar Python en el sistema operativo, instalar dependencias c
 ## Software para este curso
 - Computadora con sistema operativo Windows, macOS o Linux
 - Git
+
+## Game project
+Para correr el juego debes seguir las siguientes instrucciones en la terminal:
+
+```sh
+cd game
+python main.py
+```
